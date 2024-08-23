@@ -41,7 +41,3 @@ Para uma compreensão mais profunda sobre o tema, assista à nossa apresentaçã
 ## Conclusão
 
 A prática ética é vital para o sucesso de projetos de software e para manter a confiança dos usuários. Este repositório serve como um guia para engenheiros de software interessados em compreender e aplicar princípios éticos no seu trabalho diário.
-
-## Contribuições
-
-Estamos abertos a contribuições! Se você tem sugestões, novos temas ou experiências que gostaria de compartilhar, sinta-se à vontade para abrir um pull request ou uma issue.
